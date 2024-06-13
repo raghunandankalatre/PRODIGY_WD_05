@@ -1,5 +1,5 @@
 const apiKey = "3e46c05326dd79d5e037d2408e34894f";
-const apiUrl = "https://api.openweathermap.org/data/2.5/weather?unit=matric&q=";
+const apiUrl = "https://api.openweathermap.org/data/2.5/weather?&q=";
 
 const searchBox = document.querySelector(".search input");
 const searchBtn = document.querySelector(".search button");
